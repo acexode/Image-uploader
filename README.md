@@ -1,2 +1,3 @@
-#add 'node_modules' to .gitignore file
 # Image-uploader
+
+upload image to local file directory
